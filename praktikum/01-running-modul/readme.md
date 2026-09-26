@@ -2,5 +2,4 @@
 
 Running modul
 
-Nama : Fathan Al Akbar
-NIm : 109092630006
+Nama : Fathan Al Akbar Nim : 109092630006
