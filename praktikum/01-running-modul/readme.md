@@ -1,3 +1,4 @@
-# Praktikum — Pekan 01
+# Praktikum — Pekan 
 
-Running Modul
+Nama : Fathan Al Akbar
+NIm : 109092630006
