@@ -3,15 +3,13 @@ Nama anggota kelompok:
 2. Nur widodo
 3. Muh.Reizal al asyhari
 
-Algoritma Bola terberat
-asumsi 1:bola yang terberat atau bola yang posisi nya lebih bawah di sebut "pemenang"
-asumsi 2:jika kedua bola memiliki berat yang sama maka pilih salah satu yang menjadi pemenang
-langkah-langkahnya:
-1. Beri label keempat bola tersebut sebagai "Bola A, Bola B, Bola C dan Bola D"
-2. Timbang "Bola A" di wadah kiri dan "Bola B"di wadah kanan.
-3. Ambil bola yang posisinya lebih bawah (yang lebih berat) dan sebut sebagai "Pemenang 1". (Jika seimbang, pilih salah satu saja).
-4. Timbang "Bola C" di wadah kiri dan "Bola D" di wadah kanan.
-5. Ambil bola yang posisinya lebih bawah (yang lebih berat) dan sebut sebagai "Pemenang 2" (Jika seimbang, pilih salah satu saja).
-6. Timbang "Pemenang 1" di wadah kiri lawan "Pemenang 2" di wadah kanan.
-7. Bola yang posisinya berada di bawah pada penimbangan terakhir ini adalah "bola yang paling berat" dari seluruh bola.
-program selesai
+Algoritma: membuat bola terberaT
+Langkah-langkahnyA: 
+1. Ambil 1 bola dan taruh di 1 sisi timbangan
+2. Lalu ambil 1 bola lagi dan taruh di sisi satunya timbangan
+3. Lihat berat timbangan
+4. Ambil bola paling enteng dari kedua bola tersebut
+- Bola paling enteng taruh di meja, bola yang berat tetap di timbangan
+- Ambil bola baru dan taruh di timbangan
+- Ambil bola paling enteng sampai bola habis
+5. Jika bola habis maka yang tersisa di timbangan yaitu bola terberat
