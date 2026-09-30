@@ -1,5 +1,5 @@
-# <h1 align="center">Laporan Praktikum Modul [2] - [Pemrograman Bahasa Go]</h1>
-<p align="center">[Fathan Al Akbar] - [109092630006]</p>
+# <h1 align="center">Laporan Praktikum Modul - Pemrograman Bahasa Go</h1>
+<p align="center">Fathan Al Akbar - 109092630006</p>
 
 ## Dasar Teori
 
@@ -111,7 +111,8 @@ func main() {
 ```
 
 ##### Output
-12 1 4
+![Screenshot Output Unguided](/praktikum/02-bahasa-pemrograman-go/unguided/cacahuang/output%20(2).png)
+
 
 
 #### Deskripsi
@@ -142,7 +143,8 @@ func main() {
 ```
 
 ##### Output
-27 13 140 2 6
+![Screenshot Output Unguided](/praktikum/02-bahasa-pemrograman-go/unguided/kalkulator/output%20(3).png)
+
 
 #### Deskripsi
 Kalkulator sederhana input bilangan bulat angka A dan B, dan program menghitung tambah, kurang, kali, bagi, dan sisa dari kedua bilangan tersebut. Bilangan B tidak boleh 0.
