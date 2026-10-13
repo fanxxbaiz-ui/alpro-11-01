@@ -1,0 +1,23 @@
+Fungsi Utama:
+Fungsi utama dari struktur perulangan for dalam program Go adalah untuk mengeksekusi blok kode secara 
+berulang-ulang (repetitive execution) selama kondisi tertentu terpenuhi (true), atau berdasarkan
+ rentang/jumlah perulangan yang telah ditentukan.
+
+ Tiga Komponen Utama Perulangan for:
+
+1) Inisialisasi (Init Statement):
+Penjelasan: Komponen yang dieksekusi sekali saja sebelum perulangan dimulai.
+ Biasanya digunakan untuk mendeklarasikan dan memberi nilai awal pada 
+ variabel counter/penghitung.
+Contoh: i := 1
+
+2) Kondisi (Condition):
+Penjelasan: Ekspresi boolean yang dievaluasi sebelum setiap iterasi/putaran perulangan.
+ Jika bernilai true, kode di dalam perulangan akan dijalankan;
+  jika false, perulangan akan berhenti.
+Contoh: i <= 10
+
+3) Post Statement (Perubahan Nilai):
+Penjelasan: Komponen yang dieksekusi di akhir setiap iterasi/putaran perulangan. 
+Biasanya digunakan untuk mengubah (menambah atau mengurangi) nilai variabel counter.
+Contoh: i++ (artinya i = i + 1)
