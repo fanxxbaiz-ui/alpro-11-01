@@ -1,0 +1,8 @@
+1) for dengan Tiga Komponen (Standard For Loop):
+Digunakan ketika jumlah perulangan sudah diketahui dengan pasti sejak awal. 
+Struktur ini mencakup inisialisasi, kondisi, dan post statement dalam satu baris.
+
+2) for hanya Menggunakan Kondisi (While-like For Loop):
+Digunakan ketika jumlah perulangan tidak diketahui secara pasti di awal, melainkan bergantung pada suatu kondisi yang harus
+dipenuhi (berfungsi sama seperti perulangan while pada bahasa pemrogramam lain). Inisialisasi dilakukan di luar
+sintaks for, dan penambahan/perubahan nilai variabel dilakukan di dalam blok kode perulangan.
