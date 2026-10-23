@@ -11,8 +11,13 @@ func main() {
 	anake = 1
 	saldo = 1000000000
 
-	fmt.Println("Umur saya: " &umur)
+	fmt.Println("Umur saya: " & umur)
 	fmt.Println("Saya Anak ke: ", anake)
 	fmt.Println("Saya Memiliki saldo: ", saldo)
-	
+
+	// Deklarasi
+	var namaLengkap string // Pasti sudah ada alamat memorinya
+	// Inisialiasi
+	var namaDepen string = "Yudha" // Pasti sudah ada alamat memorinya dan sudah ada valuenya
+
 }
