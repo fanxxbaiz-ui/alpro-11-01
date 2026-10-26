@@ -6,14 +6,12 @@ import (
 
 func main() {
 	var a, b, c, d int
-	// Membaca empat masukan jumlah gol[cite: 2]
+	
 	fmt.Scan(&a, &b, &c, &d)
 
-	// Inisialisasi awal nilai maksimum dan minimum
 	max := a
 	min := a
 
-	// Membandingkan dengan bilangan kedua (b)
 	if b > max {
 		max = b
 	}
@@ -21,7 +19,6 @@ func main() {
 		min = b
 	}
 
-	// Membandingkan dengan bilangan ketiga (c)
 	if c > max {
 		max = c
 	}
@@ -29,7 +26,6 @@ func main() {
 		min = c
 	}
 
-	// Membandingkan dengan bilangan keempat (d)
 	if d > max {
 		max = d
 	}
@@ -37,6 +33,5 @@ func main() {
 		min = d
 	}
 
-	// Menampilkan hasil gol terbanyak dan tersedikit[cite: 2]
 	fmt.Printf("%d %d\n", max, min)
 }
